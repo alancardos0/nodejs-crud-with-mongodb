@@ -1,0 +1,19 @@
+{
+  "name": "estudos-nodejs",
+  "version": "1.0.0",
+  "description": "Estudos de nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
